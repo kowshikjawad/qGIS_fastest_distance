@@ -2,4 +2,4 @@
 
 
 
-![](main/Capture.PNG)
+![](/Capture.PNG)
