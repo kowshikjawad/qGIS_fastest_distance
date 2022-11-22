@@ -2,4 +2,4 @@
 
 
 
-![](/blob/main/Capture.PNG)
+![](main/Capture.PNG)
