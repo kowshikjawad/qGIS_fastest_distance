@@ -2,4 +2,4 @@
 
 
 
-[Picture](https://github.com/kowshikjawad/qGIS_fastest_distance/blob/main/Capture.PNG)
+![](/blob/main/Capture.PNG)
